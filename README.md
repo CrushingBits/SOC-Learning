@@ -79,7 +79,7 @@ Project:  [SEOC Dashboard](https://github.com/AdrianGanter/Portfolio/blob/97479c
 
 ---
 
-**Project: Grym**
+# [Project: Grym](https://github.com/AdrianGanter/Portfolio/blob/cc3d44f0995b938c53c09baf3b6900b0f2270a3c/Project%3A%20GRYM/README.md)
 - Interactive Streaming Environment
 - Unreal Engine 5 Development
 - Live Production Systems
