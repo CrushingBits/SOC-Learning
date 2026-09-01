@@ -85,7 +85,3 @@ Project:  [SEOC Dashboard](https://github.com/AdrianGanter/Portfolio/blob/97479c
 - Live Production Systems
 - Live Original Music
 
-**Project: Bit Crusher**
-- Project Development
-- Operations
-- Business Management
